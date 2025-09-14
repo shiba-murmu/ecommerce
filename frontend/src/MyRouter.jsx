@@ -1,9 +1,7 @@
 import React from 'react'
 import ResponsiveAppBar from './components/Header/ResponsiveAppBar'
-function Router() {
+function MyRouter() {
     return (
-        // <div>r
-        // </div>
         <>
             <header>
                 <ResponsiveAppBar />
@@ -18,4 +16,4 @@ function Router() {
     )
 }
 
-export default Router
+export default MyRouter

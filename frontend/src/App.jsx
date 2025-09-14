@@ -1,13 +1,12 @@
 import React from 'react'
-
-import Router from './router'
+import MyRouter from './MyRouter'
 
  
 
 function App() {
     return (
         <>
-            <Router />
+           <MyRouter />
         </>
 
     )
